@@ -23,6 +23,6 @@
 
 **T5**
 
-![OnBoarding](https://raw.githubusercontent.com/aleenaabid196/AI-Based-Drone-Navigation/refs/heads/main/UI_Screenshots/T5.png)
+![OnBoarding](https://raw.githubusercontent.com/aleenaabid196/AI-Based-Drone-Navigation/refs/heads/main/UI_Screenshots/city%20map.png)
 
 
